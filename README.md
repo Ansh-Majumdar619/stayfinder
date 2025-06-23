@@ -49,7 +49,7 @@ Welcome to **StayFinder**, your ultimate Airbnb-inspired platform built for trav
 
 ![Home Page](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfinderhome.png)  
 ![Listings](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfinderbooking.png)  
-![Booking Page](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfindermybooking.png)
+![Booking Page](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfindermybookings.png)
 
 ---
 
