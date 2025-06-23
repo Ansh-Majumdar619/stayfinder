@@ -1,0 +1,123 @@
+/* @import "tailwindcss";
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face {
+  font-family: 'YourFont';
+  src: url('./assets/fonts/manrope.regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'YourFont', sans-serif;
+  text-transform: none; 
+}
+
+@keyframes shine {
+  0% {
+    background-position: 100%;
+  }
+  100% {
+    background-position: -100%;
+  }
+}
+
+.shine-text {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.4) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: shine 5s linear infinite;
+}
+
+
+.form-input {
+  @apply bg-black border border-[#dfcea9]/30 text-[#dfcea9] p-2 rounded-md w-full focus:outline-none focus:ring-2 focus:ring-[#dfcea9]/60 transition-all;
+} */
+
+
+
+
+
+
+
+
+
+
+
+@import "tailwindcss";
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face {
+  font-family: 'YourFont';
+  src: url('./assets/fonts/manrope.regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'YourFont', sans-serif;
+  text-transform: none;
+}
+
+/* === Custom Shine Animation === */
+@keyframes shine {
+  0% {
+    background-position: 100%;
+  }
+  100% {
+    background-position: -100%;
+  }
+}
+
+.shine-text {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.4) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: shine 5s linear infinite;
+}
+
+/* === Marquee Animation (from tailwind.config.js) === */
+@keyframes marquee {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 15s linear infinite;
+}
+
+/* === Custom Translate (if needed in raw CSS) === */
+.translate-101 {
+  transform: translateX(101%);
+}
+
+/* Tailwind-style input using @apply */
+.form-input {
+  @apply bg-black border border-[#dfcea9]/30 text-[#dfcea9] p-2 rounded-md w-full focus:outline-none focus:ring-2 focus:ring-[#dfcea9]/60 transition-all;
+}
