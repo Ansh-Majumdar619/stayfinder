@@ -1,6 +1,7 @@
 # 🌍 StayFinder – Your Gateway to Comfort & Unique Stays!
 
-![StayFinder Banner](https://picsum.photos/1200/300?random=1)
+![StayFinder Home](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfinderhome.png)
+
 
 Welcome to **StayFinder**, your ultimate Airbnb-inspired platform built for travelers, hosts, and explorers 🌄. Whether you're booking a cozy cabin in the mountains, a luxury penthouse, or renting out your beachside bungalow, StayFinder makes it all smooth, secure, and stunning. 💼✈️🏠
 
@@ -46,9 +47,9 @@ Welcome to **StayFinder**, your ultimate Airbnb-inspired platform built for trav
 
 > *Screenshots or GIFs of your application:*
 
-![Home Page](https://picsum.photos/600/300?random=2)  
-![Listings](https://picsum.photos/600/300?random=3)  
-![Booking Page](https://picsum.photos/600/300?random=4)
+![Home Page](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfinderhome.png)  
+![Listings](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfinderbooking.png)  
+![Booking Page](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfindermybookings.png)
 
 ---
 
