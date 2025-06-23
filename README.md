@@ -1,6 +1,7 @@
 # 🌍 StayFinder – Your Gateway to Comfort & Unique Stays!
 
-![StayFinder Banner](frontend/public/stayfinder.png)
+![StayFinder Banner]([frontend/public/stayfinder.png](https://raw.githubusercontent.com/Ansh-Majumdar619/stayfinder/main/frontend/public/stayfinderhome.png
+))
 
 Welcome to **StayFinder**, your ultimate Airbnb-inspired platform built for travelers, hosts, and explorers 🌄. Whether you're booking a cozy cabin in the mountains, a luxury penthouse, or renting out your beachside bungalow, StayFinder makes it all smooth, secure, and stunning. 💼✈️🏠
 
